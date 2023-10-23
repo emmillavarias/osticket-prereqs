@@ -30,10 +30,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 - Step 1: Create a Window 10 Virtual Machine in Azure
-</p>- Step 2: Enable IIS with CGI and common HTTP features
-</p>- Step 3: Instal PHP
-</p>- Step 4: Install HeidiSQL
-</p>- Step 5: Install Download and Configure osTicket
+- Step 2: Enable IIS with CGI and common HTTP features
+- Step 3: Instal PHP
+- Step 4: Install HeidiSQL
+- Step 5: Install Download and Configure osTicket
 <p>
 <img src="https://i.imgur.com/k91sR7M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
